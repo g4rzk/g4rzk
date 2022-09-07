@@ -8,7 +8,6 @@
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=g4rzk.g4rzk" />
   <a href="https://github.com/g4rzk"><img src="https://img.shields.io/github/followers/g4rzk?label=followers&style=social"/></a>
-  <a href='https://stackshare.io/g4rzk/mn3'><img src='http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat' alt='StackShare' />
   </a>
 </p>
 
