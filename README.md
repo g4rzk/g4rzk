@@ -17,8 +17,9 @@
  - 🏠 Live in `Bekasi, Jawa Barat`
  - 👶🏻 Born in `Jakarta, Indonesia`
  - 🌐 Language
-  - 🇮🇩 Indonesian
-  - 🇬🇧 English
+   - 🇮🇩 Indonesian
+   - 🇮🇩 Sundanese
+   - 🇬🇧 English
 
 ### Basic Experience
 
