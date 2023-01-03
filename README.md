@@ -6,7 +6,7 @@
   <a href="https://t.me/g4rzk"><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg"></a>&nbsp;
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=g4rzk&color=blue"/>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=g4rzk.g4rzk"/>
   <a href="https://github.com/g4rzk"><img src="https://img.shields.io/github/followers/g4rzk?label=followers&style=social"/></a>
   </a>
 </p>
